@@ -136,7 +136,7 @@ def queueing(origin_queue):
         print('\033c')
 
         print('PDF Mixer.')
-        print('[C]Gliese Software 2019-2023')
+        print('[C]Nick Software 2019-2023')
         print('---------Version:Mk.II_rev2--')
 
         if step == 0:
